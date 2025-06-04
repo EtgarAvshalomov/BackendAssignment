@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\",
+  "WorkspaceRootPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\data\\repositories\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|solutionrelative:data\\repositories\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\data\\models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|solutionrelative:data\\models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|solutionrelative:data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\myapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\myapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\myapi\\dto\\weatherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\dto\\weatherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\myapi\\services\\eventsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\services\\eventsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\myapi\\myapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\myapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\myapi\\myapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\myapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\data\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\data\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|solutionrelative:data\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\data\\models\\eventscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\myapi\\dto\\weatherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\dto\\weatherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\myapi\\services\\eventsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\services\\eventsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\data\\repositories\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|solutionrelative:data\\repositories\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\data\\models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|solutionrelative:data\\models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|solutionrelative:data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\myapi\\myapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\myapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\myapi\\myapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\myapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\data\\models\\eventscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601D1602-6B37-4C0B-9804-CF6E0FBDD3EB}|Data\\Data.csproj|solutionrelative:data\\models\\eventscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\ruppin\\back-end\\assignment 1\\assignment\\myapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|c:\\users\\egrbo\\onedrive\\desktop\\assignment repo\\myapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{904FB0F1-9971-469F-9A95-1EA240F31CBB}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -58,45 +58,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MyAPI.http",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\MyAPI.http",
-              "RelativeDocumentMoniker": "MyAPI\\MyAPI.http",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\MyAPI.http",
-              "RelativeToolTip": "MyAPI\\MyAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-03T06:29:38.633Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MyAPI",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\MyAPI.csproj",
-              "RelativeDocumentMoniker": "MyAPI\\MyAPI.csproj",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\MyAPI.csproj",
-              "RelativeToolTip": "MyAPI\\MyAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-03T13:52:36.146Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "MyAPI.http",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\MyAPI.http",
+              "RelativeDocumentMoniker": "MyAPI\\MyAPI.http",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\MyAPI.http",
+              "RelativeToolTip": "MyAPI\\MyAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-03T06:29:38.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "MyAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\MyAPI.csproj",
+              "RelativeDocumentMoniker": "MyAPI\\MyAPI.csproj",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\MyAPI.csproj",
+              "RelativeToolTip": "MyAPI\\MyAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T13:52:36.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WeatherDTO.cs",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\DTO\\WeatherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\DTO\\WeatherDTO.cs",
               "RelativeDocumentMoniker": "MyAPI\\DTO\\WeatherDTO.cs",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\DTO\\WeatherDTO.cs",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\DTO\\WeatherDTO.cs",
               "RelativeToolTip": "MyAPI\\DTO\\WeatherDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,37 +103,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Models\\User.cs",
               "RelativeDocumentMoniker": "Data\\Models\\User.cs",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Models\\User.cs",
               "RelativeToolTip": "Data\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T06:57:35.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T06:57:35.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventUser.cs",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Models\\EventUser.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\EventUser.cs",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Models\\EventUser.cs",
+              "RelativeToolTip": "Data\\Models\\EventUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:47:04.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EventUser.cs",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Models\\EventUser.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\EventUser.cs",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Models\\EventUser.cs",
-              "RelativeToolTip": "Data\\Models\\EventUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T06:47:04.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Models\\Event.cs",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Models\\Event.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Event.cs",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Models\\Event.cs",
               "RelativeToolTip": "Data\\Models\\Event.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,24 +140,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "EventsRepository.cs",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Repositories\\EventsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Repositories\\EventsRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\EventsRepository.cs",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Repositories\\EventsRepository.cs",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Repositories\\EventsRepository.cs",
               "RelativeToolTip": "Data\\Repositories\\EventsRepository.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFQAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwFQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T05:56:52.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "EventsService.cs",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\Services\\EventsService.cs",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\Services\\EventsService.cs",
               "RelativeDocumentMoniker": "MyAPI\\Services\\EventsService.cs",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\Services\\EventsService.cs",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\Services\\EventsService.cs",
               "RelativeToolTip": "MyAPI\\Services\\EventsService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAApwDIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,13 +166,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "EventsController.cs",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\Controllers\\EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "MyAPI\\Controllers\\EventsController.cs",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\Controllers\\EventsController.cs",
               "RelativeToolTip": "MyAPI\\Controllers\\EventsController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswFIAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwF0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T05:47:18.207Z",
               "EditorCaption": ""
@@ -185,40 +181,37 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "EventsContext.cs",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Models\\EventsContext.cs",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Models\\EventsContext.cs",
               "RelativeDocumentMoniker": "Data\\Models\\EventsContext.cs",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Models\\EventsContext.cs",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Models\\EventsContext.cs",
               "RelativeToolTip": "Data\\Models\\EventsContext.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA3wBkAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T05:54:18.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T05:54:18.94Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\appsettings.json",
               "RelativeDocumentMoniker": "MyAPI\\appsettings.json",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\appsettings.json",
               "RelativeToolTip": "MyAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-03T05:53:21.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T05:53:21.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\Program.cs",
               "RelativeDocumentMoniker": "MyAPI\\Program.cs",
-              "ToolTip": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\Program.cs",
               "RelativeToolTip": "MyAPI\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T05:33:18.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T05:33:18.3Z"
             }
           ]
         }

@@ -82,13 +82,18 @@ namespace MyAPI.Controllers
         [HttpGet]
         public ActionResult<WeatherDTO> GetWeather(int eventId)
         {
-            WeatherDTO cacheData = _memoryCache.Get<WeatherDTO>("weather-cache");
-            if (cacheData != null) return Ok(cacheData);
+            Event myEvent = _eventsService.GetByIdRequest(eventId);
+            if (myEvent == null) return NotFound();
+
+            WeatherDTO cacheWeather = _memoryCache.Get<WeatherDTO>("weather-cache");
+            string cacheLocation = _memoryCache.Get<string>("location");
+            if (cacheWeather != null && cacheLocation == myEvent.Location) return Ok(cacheWeather);
 
             WeatherDTO weather = _eventsService.RequestWeather(eventId);
             // Set the data in the cache
             var expirationTime = DateTimeOffset.Now.AddSeconds(15);
             _memoryCache.Set("weather-cache", weather, expirationTime);
+            _memoryCache.Set("location", myEvent.Location, expirationTime);
             return Ok(weather);
         }
     }

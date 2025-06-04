@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\MyAPI.csproj": {}
+    "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\MyAPI.csproj": {}
   },
   "projects": {
-    "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Data.csproj": {
+    "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\egrbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\obj\\",
+        "outputPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\MyAPI.csproj": {
+    "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\MyAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\MyAPI.csproj",
+        "projectUniqueName": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\MyAPI.csproj",
         "projectName": "MyAPI",
-        "projectPath": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\MyAPI.csproj",
+        "projectPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\MyAPI.csproj",
         "packagesPath": "C:\\Users\\egrbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\MyAPI\\obj\\",
+        "outputPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\MyAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +109,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Data.csproj": {
-                "projectPath": "C:\\Ruppin\\Back-End\\Assignment 1\\Assignment\\Data\\Data.csproj"
+              "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Data.csproj"
               }
             }
           }
