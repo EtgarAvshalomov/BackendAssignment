@@ -1,0 +1,243 @@
+{
+	"info": {
+		"_postman_id": "9ea8497a-55c1-41c4-80cd-7cf0784813c1",
+		"name": "Events",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44301394",
+		"_collection_link": "https://etgar-93096.postman.co/workspace/Etgar's-Workspace~f6206742-5036-46b1-87ef-36f871814f40/collection/44301394-9ea8497a-55c1-41c4-80cd-7cf0784813c1?action=share&source=collection_link&creator=44301394"
+	},
+	"item": [
+		{
+			"name": "CreateEvent",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 0,\r\n  \"name\": \"Disco Party\",\r\n  \"startDate\": \"2025-08-03T14:18:57.458Z\",\r\n  \"endDate\": \"2025-11-04T14:18:57.458Z\",\r\n  \"maxRegistrations\": 500,\r\n  \"location\": \"Haifa\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5240/api/Events",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5240",
+					"path": [
+						"api",
+						"Events"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetEventUsers",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:5240/api/Events/1/registration",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5240",
+					"path": [
+						"api",
+						"Events",
+						"1",
+						"registration"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "RegisterToEvent",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 0,\r\n  \"name\": \"Robert\",\r\n  \"dateOfBirth\": \"1996-12-19\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5240/api/Events/1/registration",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5240",
+					"path": [
+						"api",
+						"Events",
+						"1",
+						"registration"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetEventById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5240/api/Events/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5240",
+					"path": [
+						"api",
+						"Events",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UpdateEvent",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 0,\r\n  \"name\": \"Burning Man\",\r\n  \"startDate\": \"2025-06-03T13:57:20.662Z\",\r\n  \"endDate\": \"2025-07-31T13:57:20.662Z\",\r\n  \"maxRegistrations\": 300,\r\n  \"location\": \"New York\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5240/api/Events/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5240",
+					"path": [
+						"api",
+						"Events",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteEvent",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:5240/api/Events/4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5240",
+					"path": [
+						"api",
+						"Events",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Schedule",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 0,\r\n  \"name\": \"Burning Man\",\r\n  \"startDate\": \"2025-06-03T13:57:20.662Z\",\r\n  \"endDate\": \"2025-07-31T13:57:20.662Z\",\r\n  \"maxRegistrations\": 300,\r\n  \"location\": \"New York\"\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5240/api/Events/schedule?startDate=2025-06-03&endDate=2025-08-01",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5240",
+					"path": [
+						"api",
+						"Events",
+						"schedule"
+					],
+					"query": [
+						{
+							"key": "startDate",
+							"value": "2025-06-03"
+						},
+						{
+							"key": "endDate",
+							"value": "2025-08-01"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetWeather",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:5240/api/Events/5/weather",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5240",
+					"path": [
+						"api",
+						"Events",
+						"5",
+						"weather"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

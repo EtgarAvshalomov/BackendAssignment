@@ -1,0 +1,96 @@
+.global-container h1 {
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+body {
+    font-family: system-ui, sans-serif;
+    background: linear-gradient(90deg, rgba(30, 160, 255, 0.9) 0%, rgba(90, 200, 135, 1) 50%, rgba(235, 220, 85, 1) 100%);
+    padding: 0.5rem;
+}
+
+h2 {
+    margin: 1rem;
+}
+
+.get-container {
+    background-color: lightskyblue;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-bottom: 0.5rem;
+}
+
+.post-container {
+    background-color: greenyellow;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-bottom: 0.5rem;
+}
+
+.put-container {
+    background-color: orange;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-bottom: 0.5rem;
+}
+
+.delete-container {
+    background-color: red;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-bottom: 0.5rem;
+}
+
+.event {
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.event-user {
+    margin: 1rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.user {
+    margin: 1rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.weather {
+    margin: 1rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.message {
+    margin: 1rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+button {
+    font-size: 16px;
+    margin: 1rem;
+    border-radius: 7px;
+}
+
+span {
+    font-size: 16px;
+    margin: 1rem;
+}
+
+input {
+    font-size: 16px;
+    margin: 0.25rem;
+    border-radius: 10px;
+}

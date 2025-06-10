@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+</head>
+<body>
+    <div class="global-container">
+        <h1>Assignment Part 2</h1>
+        
+        <div class="get-container">
+            <h2>Get Functions</h2>
+            <button onclick="getEvent()">Get Event By Id</button>
+            <input type="text" id="getEvent-id" />
+            <div id="get-event-container"></div>
+            
+            <button onclick="getEventUsers()">Get Event Users By Event Id</button>
+            <input type="text" id="getEventUsers-id" />
+            <div id="get-event-users-container"></div>
+
+            <button onclick="getEventsSchedule()">Get Events Schedule By Start Date and End Date</button>
+            <span>Start Date: </span>
+            <input type="text" id="getEventsSchedule-startDate" />
+            <span>End Date: </span>
+            <input type="text" id="getEventsSchedule-endDate" />
+            <div id="get-events-schedule-container"></div>
+
+            <button onclick="getEventWeather()">Get Event Weather By Id</button>
+            <input type="text" id="getEventWeather-id" />
+            <div id="get-event-weather-container"></div>
+        </div>
+
+        <div class="post-container">
+            <h2>Post Functions</h2>
+            <button onclick="createNewEvent()">Create An Event</button> <br />
+            <span>Name: </span>
+            <input type="text" id="createEvent-name" /> <br />
+            <span>Start Date: </span>
+            <input type="text" id="createEvent-startDate" /> <br />
+            <span>End Date: </span>
+            <input type="text" id="createEvent-endDate" /> <br />
+            <span>Max Registrations: </span>
+            <input type="number" id="createEvent-maxRegistrations" /> <br />
+            <span>Location: </span>
+            <input type="text" id="createEvent-location" /> <br />
+            <div id="create-event-container"></div>
+
+            <button onclick="registerToEvent()">Register To An Event By Id</button> <br />
+            <span>Event Id: </span>
+            <input type="text" id="registerToEvent-id" /> <br />
+            <span>Name: </span>
+            <input type="text" id="registerToEvent-name" /> <br />
+            <span>Date Of Birth: </span>
+            <input type="text" id="registerToEvent-dateOfBirth" /> <br />
+            <div id="register-to-event-container"></div>
+        </div>
+        
+        <div class="put-container">
+            <h2>Put Functions</h2>
+            <button onclick="updateEvent()">Update An Event</button> <br />
+            <span>Id: </span>
+            <input type="text" id="updateEvent-id" /> <br />
+            <span>Name: </span>
+            <input type="text" id="updateEvent-name" /> <br />
+            <span>Start Date: </span>
+            <input type="text" id="updateEvent-startDate" /> <br />
+            <span>End Date: </span>
+            <input type="text" id="updateEvent-endDate" /> <br />
+            <span>Max Registrations: </span>
+            <input type="number" id="updateEvent-maxRegistrations" /> <br />
+            <span>Location: </span>
+            <input type="text" id="updateEvent-location" /> <br />
+            <div id="update-event-container"></div>
+        </div>
+
+        <div class="delete-container">
+            <h2>Delete Functions</h2>
+            <button onclick="deleteEvent()">Delete Event By Id</button>
+            <input type="text" id="deleteEvent-id" />
+            <div id="delete-event-container"></div>
+        </div>
+
+    </div>
+    
+    <script src="index.js"></script>
+</body>
+</html>
