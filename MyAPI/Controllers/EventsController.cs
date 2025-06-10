@@ -1,5 +1,6 @@
 ﻿using Data.Models;
 using Data.Repositories;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Memory;
@@ -9,6 +10,7 @@ using System.Net;
 
 namespace MyAPI.Controllers
 {
+    [EnableCors()]
     [Route("api/[controller]")]
     [ApiController]
     public class EventsController : ControllerBase
@@ -27,6 +29,7 @@ namespace MyAPI.Controllers
         public ActionResult<Event> GetEventById(int eventId)
         {
             Event myEvent = _eventsService.GetByIdRequest(eventId);
+            if (myEvent == null) return NotFound();
             return Ok(myEvent);
         }
 
@@ -35,6 +38,7 @@ namespace MyAPI.Controllers
         public ActionResult<List<User>> GetEventUsers(int eventId)
         {
             List<User> eventUsers = _eventsService.GetEventUsersRequest(eventId);
+            if (eventUsers == null) return NotFound();
             return Ok(eventUsers);
         }
 

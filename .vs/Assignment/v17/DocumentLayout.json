@@ -98,8 +98,7 @@
               "RelativeToolTip": "MyAPI\\DTO\\WeatherDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T09:42:50.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T09:42:50.352Z"
             },
             {
               "$type": "Document",
@@ -135,8 +134,7 @@
               "RelativeToolTip": "Data\\Models\\Event.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T06:05:46.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T06:05:46.571Z"
             },
             {
               "$type": "Document",
@@ -148,8 +146,7 @@
               "RelativeToolTip": "Data\\Repositories\\EventsRepository.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAuwFQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T05:56:52.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T05:56:52.597Z"
             },
             {
               "$type": "Document",
@@ -161,8 +158,7 @@
               "RelativeToolTip": "MyAPI\\Services\\EventsService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAApwDIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T05:56:08.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T05:56:08.099Z"
             },
             {
               "$type": "Document",

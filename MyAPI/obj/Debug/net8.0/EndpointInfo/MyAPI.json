@@ -431,6 +431,10 @@
       "WeatherDTO": {
         "type": "object",
         "properties": {
+          "city": {
+            "type": "string",
+            "nullable": true
+          },
           "temperature": {
             "type": "integer",
             "format": "int32"

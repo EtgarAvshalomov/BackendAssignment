@@ -26,12 +26,13 @@ namespace Data.Repositories
         public List<User> GetEventUsers(int eventId)
         {
             Event myEvent = db.Events.Include(e => e.EventUsers).ThenInclude(eu => eu.UserRefNavigation).FirstOrDefault(e => e.Id == eventId);
+            if (myEvent == null) return null;
             return myEvent.EventUsers.Select(u => new User { Id = u.UserRefNavigation.Id, Name = u.UserRefNavigation.Name, DateOfBirth = u.UserRefNavigation.DateOfBirth}).ToList();
         }
 
         public List<Event> FetchScheduleRequest(DateTime startDate, DateTime endDate)
         {
-            List<Event> myEvents = db.Events.Where(e => e.StartDate >= startDate && e.EndDate <= endDate).ToList();
+            List<Event> myEvents = db.Events.Where(e => (e.StartDate <= startDate && endDate >= startDate ) || (e.StartDate >= startDate && e.StartDate <= endDate)).ToList();
             return myEvents;
         }
 

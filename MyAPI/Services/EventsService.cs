@@ -25,6 +25,7 @@ namespace MyAPI.Services
         public List<User> GetEventUsersRequest(int eventId)
         {
             List<User> eventUsers = _eventsRepository.GetEventUsers(eventId);
+            if (eventUsers == null) return null;
             return eventUsers;
         }
 
@@ -44,6 +45,7 @@ namespace MyAPI.Services
             var current = doc.RootElement.GetProperty("current");
             var result = new WeatherDTO
             {
+                City = city,
                 Temperature = current.GetProperty("temperature").GetInt32(),
                 WeatherDescription = current.GetProperty("weather_descriptions")[0].GetString(),
                 WindSpeed = current.GetProperty("wind_speed").GetInt32()

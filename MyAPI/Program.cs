@@ -11,6 +11,8 @@ builder.Services.AddScoped<EventsRepository>();
 
 builder.Services.AddDbContext<EventsContext>(options => options.UseSqlServer(builder.Configuration. GetConnectionString("")));
 
+builder.Services.AddCors(p => p.AddPolicy("corsapp", builder => { builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader(); }));
+
 builder.Services.AddMemoryCache();
 
 builder.Services.AddControllers();
@@ -30,5 +32,7 @@ if (app.Environment.IsDevelopment())
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseCors("corsapp");
 
 app.Run();
