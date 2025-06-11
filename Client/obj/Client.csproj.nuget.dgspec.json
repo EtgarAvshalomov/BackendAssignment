@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Part 1\\Assignment\\Client\\Client.csproj": {}
+    "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Part 1\\Assignment\\Client\\Client.csproj": {
+    "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Part 1\\Assignment\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Part 1\\Assignment\\Client\\Client.csproj",
+        "projectPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\egrbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Part 1\\Assignment\\Client\\obj\\",
+        "outputPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

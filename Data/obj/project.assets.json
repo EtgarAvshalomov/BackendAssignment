@@ -4727,11 +4727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Part 1\\Assignment\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Part 1\\Assignment\\Data\\Data.csproj",
+      "projectPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\egrbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Part 1\\Assignment\\Data\\obj\\",
+      "outputPath": "C:\\Users\\egrbo\\OneDrive\\Desktop\\Assignment Repo\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

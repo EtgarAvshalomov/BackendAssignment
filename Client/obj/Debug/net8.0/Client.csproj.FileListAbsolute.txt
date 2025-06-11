@@ -1,25 +1,26 @@
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\bin\Debug\net8.0\appsettings.json
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\bin\Debug\net8.0\Client.staticwebassets.runtime.json
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\bin\Debug\net8.0\Client.staticwebassets.endpoints.json
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\bin\Debug\net8.0\Client.exe
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\bin\Debug\net8.0\Client.deps.json
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\bin\Debug\net8.0\Client.runtimeconfig.json
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\bin\Debug\net8.0\Client.dll
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\bin\Debug\net8.0\Client.pdb
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\Client.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\scopedcss\bundle\Client.styles.css
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\Client.dll
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\refint\Client.dll
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\Client.pdb
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
-C:\Users\egrbo\OneDrive\Desktop\Assignment Part 1\Assignment\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\bin\Debug\net8.0\appsettings.json
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\bin\Debug\net8.0\Client.staticwebassets.runtime.json
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\bin\Debug\net8.0\Client.staticwebassets.endpoints.json
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\bin\Debug\net8.0\Client.exe
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\bin\Debug\net8.0\Client.dll
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\scopedcss\bundle\Client.styles.css
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\Client.dll
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\egrbo\OneDrive\Desktop\Assignment Repo\Client\obj\Debug\net8.0\ref\Client.dll
